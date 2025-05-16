@@ -1,0 +1,17 @@
+:root {
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #0e0e0e;
+  --color-bg: #fff3bb;
+  --color-light-bg: #e6b97b;
+  --color-secondary: #ff5454;
+  --color-text-main: #181818;
+
+  /* Fonts */
+  --font-family-title: "Cambria";
+  --font-family-main: "Times New Roman";
+  --font-family-component: "Franklin Gothic Medium";
+}
+
+/*Desktop visualization >= 500px*/
+/*Mobile visualization < 500 px*/

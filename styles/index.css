@@ -1,0 +1,23 @@
+@import url(./globals.css);
+/* 275 */
+nav ul {
+  display: none;
+}
+nav h1 {
+  height: 100%;
+}
+
+h1 {
+  font-family: var(--font-family-title);
+}
+
+@media (width > 500px) {
+  nav ul {
+    display: flex;
+  }
+
+  nav h1 {
+    height: 5dvh;
+    padding: 3px 0;
+  }
+}
